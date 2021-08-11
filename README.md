@@ -1,7 +1,6 @@
 ### Hi there 👋. Thanks for stopping by
 ### I am Jose Solis, A Software Engineer.
-#### [Portfolio](https://tonomatic.github.io)
-#### [Resume](https://theabbie.github.io/resume.pdf)
+#### [Portfolio](https://tonomatic.github.io) [Resume](https://theabbie.github.io/resume.pdf)
 
 <!-- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1526-9128" href="https://orcid.org/0000-0003-1526-9128" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1526-9128</a></div>
 
@@ -9,8 +8,8 @@
 
 <img src="http://www.hackthebox.eu/badge/image/370240" alt="Hack The Box">
  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tonomatic&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonomatic&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tonomatic&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonomatic&layout=compact&theme=radical" />
 
 <!-- <table>
 <caption>Abhishek Chaudhary</caption>
